@@ -22,8 +22,8 @@ ogimage = "images/work1.jpg"
 
 [[params.projects.list]]
 title = "Name of the work 1"
-url = "#"
-description = "Describe your work summary"
+url = "content/main-content.md"
+description = "My Work"
 image = "images/work1.jpg"
 w = "780"
 h = "518"
