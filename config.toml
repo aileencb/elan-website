@@ -1,0 +1,72 @@
+# Page settings
+
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Elan Barry"
+copyright = "© Elan Barry"
+googleAnalytics = "UA-xxxxxxxx-x"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+theme = "hugo-theme-doors"
+
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+# Site information
+[params]
+description = ""
+ogimage = "images/work1.jpg"
+
+# Project section
+[params.projects]
+
+[[params.projects.list]]
+title = "Name of the work 1"
+url = "#"
+description = "Describe your work summary"
+image = "images/work1.jpg"
+w = "780"
+h = "518"
+
+# Subproject section
+[params.subprojects]
+
+[[params.subprojects.list]]
+title = "The work 2"
+url = "#"
+description = "Lorem ipsum dolor sit amet"
+image = "images/work2.jpg"
+w = "780"
+h = "522"
+
+[[params.subprojects.list]]
+title = "The work 3"
+url = "#"
+description = "Consectetur adipiscing elit"
+image = "images/work3.jpg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "The work 4"
+url = "#"
+description = "Sed do eiusmod tempor incididunt"
+image = "images/work4.jpg"
+w = "780"
+h = "518"
+
+# Contact section
+[params.contact]
+description = "I would like to hear from you. Please contact me via email or social media."
+twitter = ""
+instagram = "https://www.instagram.com/elan.___/"
+issuu="#"
+facebook = ""
+linkedin = "https://www.linkedin.com/in/elan-barry-9a7163194/"
+github = ""
+email = "#"
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "awsbucket"
+URL = "s3://cloud9-hugo-elan/?region=us-east-1" #your bucket here
