@@ -60,11 +60,11 @@ h = "518"
 description = "I would like to hear from you. Please contact me via email or social media."
 twitter = ""
 instagram = "https://www.instagram.com/elan.___/"
-issuu="#"
+issuu="https://issuu.com/elanbarry/docs/_"
 facebook = ""
 linkedin = "https://www.linkedin.com/in/elan-barry-9a7163194/"
 github = ""
-email = "#"
+email = "mailto:elan.barry@gmail.com"
 
 [[deployment.targets]]
 # An arbitrary name for this target.
