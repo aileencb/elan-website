@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "hugo-theme-doors"
 
 disableRSS = true
-disableSitemap = true
+disableSitemap = false
 disable404 = true
 
 # Site information
