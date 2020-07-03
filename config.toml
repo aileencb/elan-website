@@ -66,28 +66,7 @@ weight = 1
 
 
 #################### default parameters ################################
-[params]
-# Meta data
-description = "This is meta description"
-author = "Themefisher"
 
-
-# banner
-[params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
-
-# blog
-[params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
-
-# call to action
-[params.call_to_action]
-enable = true
-title = "Contact us for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
-button_url = "contact"
 
 # gallery
 [params.gallery]
