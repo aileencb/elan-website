@@ -11,3 +11,11 @@ url = "/about"
 [[menu.main]]
 name = "Blog"
 url = "/blog"
+
+[[menu.footer]]
+name = "About"
+url = "/about"
+
+[[menu.footer]]
+name = "Privacy"
+url = "/privacy"
