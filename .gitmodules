@@ -4,12 +4,3 @@
 [submodule "themes/twenty-twenty-hugo"]
 	path = themes/twenty-twenty-hugo
 	url = https://github.com/themefisher/twenty-twenty-hugo.git
-[submodule "themes/elan/resources/et-book"]
-	path = themes/elan/resources/et-book
-	url = https://github.com/edwardtufte/et-book.git
-[submodule "themes/elan/static/tufte-css"]
-	path = themes/elan/static/tufte-css
-	url = https://github.com/edwardtufte/tufte-css.git
-[submodule "themes/elan/static/et-book"]
-	path = themes/elan/static/et-book
-	url = https://github.com/edwardtufte/et-book.git
