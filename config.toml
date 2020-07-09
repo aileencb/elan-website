@@ -1,21 +1,17 @@
 theme = "elan"
-title = "Elan Barry"
+title = "ELAN BARRY"
 #site parameters
 [params]
 description = "Elan's Website"
 
 [[menu.main]]
-name = "About"
-url = "/about"
-
-[[menu.main]]
-name = "Blog"
-url = "/blog"
-
-[[menu.footer]]
-name = "About"
+name = "ABOUT"
 url = "/about"
 
 [[menu.footer]]
-name = "Privacy"
+name = "ABOUT"
+url = "/about"
+
+[[menu.footer]]
+name = "PRIVACY"
 url = "/privacy"
