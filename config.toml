@@ -15,3 +15,8 @@ url = "/about"
 [[menu.footer]]
 name = "PRIVACY"
 url = "/privacy"
+
+[params.contact]
+linkedin = "#"
+instagram = "#"
+issuu = "#"
