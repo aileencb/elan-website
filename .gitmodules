@@ -13,3 +13,6 @@
 [submodule "themes/elan/static/et-book"]
 	path = themes/elan/static/et-book
 	url = https://github.com/edwardtufte/et-book.git
+[submodule "themes/elan/static/static/et-book"]
+	path = themes/elan/static/static/et-book
+	url = https://github.com/edwardtufte/et-book.git
