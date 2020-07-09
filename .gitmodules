@@ -4,6 +4,9 @@
 [submodule "themes/twenty-twenty-hugo"]
 	path = themes/twenty-twenty-hugo
 	url = https://github.com/themefisher/twenty-twenty-hugo.git
+<<<<<<< HEAD
 [submodule "themes/elan/static/et-book"]
 	path = themes/elan/static/et-book
 	url = https://github.com/edwardtufte/et-book.git
+=======
+>>>>>>> 3ce26323ed0a6261aae508cbab70974232d620e5
