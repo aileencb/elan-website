@@ -1,13 +1,19 @@
 <footer class="footer">
     <div class="container">
-        <div class="columns has-text-centered is-vcentered">
+        <div class="columns has-text-centered is-vcentered is-centered">
             {{ range .Site.Menus.footer }}
             <div class="column is-narrow">
                 <a href="{{ .URL }}" class="">{{ .Name }}</a>
             </div>
             {{ end }}
 			
+			<div class="column is-narrow">
 			{{with .Site.Params.contact}}
+			<div class="column is-narrow">
+			<p>
+			{{ .description }}
+			</p>
+			</div>
 			<div class="columns is-mobile is-multiline is-centered">
 				{{ with .linkedin }}
 					<div class="column is-narrow">
@@ -32,6 +38,10 @@
 				{{ end }}
 			</div>
 			{{ end }}
+			<div class="column is narrow">
+			<p><small>{{ .Site.Copyright }}</small></p>
+			</div>
+			</div>
         </div>
     </div>
 </footer>

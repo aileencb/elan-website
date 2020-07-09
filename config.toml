@@ -1,5 +1,7 @@
 theme = "elan"
 title = "ELAN BARRY"
+copyright = ""
+
 #site parameters
 [params]
 description = "Elan's Website"
@@ -8,15 +10,12 @@ description = "Elan's Website"
 name = "ABOUT"
 url = "/about"
 
-[[menu.footer]]
-name = "ABOUT"
-url = "/about"
-
-[[menu.footer]]
-name = "PRIVACY"
-url = "/privacy"
+[[menu.main]]
+name = "PORTFOLIO"
+url = "/portfolio"
 
 [params.contact]
-linkedin = "#"
-instagram = "#"
-issuu = "#"
+description = "Find me on the web:"
+linkedin = "https://www.linkedin.com/in/elan-barry-9a7163194/"
+instagram = "https://www.instagram.com/elan.___/"
+issuu = "https://issuu.com/elanbarry/docs/_"
