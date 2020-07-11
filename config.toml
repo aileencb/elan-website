@@ -14,6 +14,9 @@ url = "/about"
 name = "PORTFOLIO"
 url = "/portfolio"
 
+[params.about]
+image = "/images/elan.png"
+
 [params.contact]
 description = "Find me on the web:"
 linkedin = "https://www.linkedin.com/in/elan-barry-9a7163194/"
