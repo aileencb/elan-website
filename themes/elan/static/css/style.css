@@ -1,12 +1,12 @@
 
 .logo h1 {
-  font-family: 'Libre Franklin', sans-serif;
+  font-family: 'Saira Extra Condensed', sans-serif;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1.8em;
 }
 
 .title {
-	font-family: 'Libre Franklin', sans-serif;
+	font-family: 'Saira Extra Condensed', sans-serif;
 }
 
 p {
@@ -21,13 +21,13 @@ body {
 }
 
 .navbar {
-	font-family: 'Libre Franklin', sans-serif;
-	font-weight: light;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	font-weight: 500;
 	background-color: rgba(255, 255, 255, 0.8);
 }
 
 .footer {
-	font-family: 'Libre Franklin', sans-serif;
+	font-family: 'Saira Extra Condensed', sans-serif;
 	font-style: italic;
 	background-color: rgba(255, 255, 255, 0.8);
 }
